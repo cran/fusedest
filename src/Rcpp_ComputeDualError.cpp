@@ -28,7 +28,7 @@ for(int j = 0; j < q_H_s; j++){
 
   dual_err_j = VectorXd(xi01.segment(j*p_s, p_s) + tau.segment(j*p_s, p_s)).norm()+
     VectorXd(xi02.segment(j*p_s, p_s) - tau.segment(j*p_s, p_s)).norm();
-  dual_err += dual_err_j/(2*sqrt(p_s)*q_H_s);
+  dual_err += dual_err_j/(2*sqrt((double)p_s)*q_H_s);
 
   dual_err_j = 0;
 }

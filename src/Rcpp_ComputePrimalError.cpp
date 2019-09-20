@@ -34,7 +34,7 @@ for(int j = 0; j < q_H_s; j++){
     VectorXd(beta01.segment(j*p_s, p_s)-theta03.segment(j*p_s, p_s)).norm() +
     VectorXd(beta02.segment(j*p_s, p_s)-theta04.segment(j*p_s, p_s)).norm()+
     VectorXd(alpha.segment(j*p_s, p_s)-(theta03.segment(j*p_s, p_s)-theta04.segment(j*p_s, p_s))).norm();
-  primal_err += primal_err_j/(5*sqrt(p_s)*q_H_s);
+  primal_err += primal_err_j/(5*sqrt((double)p_s)*q_H_s);
 
   primal_err_j = 0;
 }

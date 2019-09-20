@@ -1,4 +1,4 @@
-ea0260d2149b96a0a570fc40c0970179 *DESCRIPTION
+c0fe5d8ee0edf7242505468d643f73ed *DESCRIPTION
 265b2a357765910bee3a9b6cde3c8068 *NAMESPACE
 160cd644e4fc4b11bd03f3ebbc71bb35 *R/fusedest_source_code_linear_reg.R
 305277cd6c87139210ffd58ebaf7b404 *R/fusedest_source_code_logistic_reg.R
@@ -15,7 +15,7 @@ ca18068aad0f2bc4f89b7b6e7387ec18 *src/Rcpp_ComputeBlockOLS.cpp
 238594bfb6bc7b0111a40fa8eb77a9df *src/Rcpp_ComputeCholeskyLT.cpp
 4d6ffca026ad08bfc3e58ee81017e259 *src/Rcpp_ComputeCholeskyLTXTXrhoGTG.cpp
 e64531a4c26275a9e6dd2455da6d9086 *src/Rcpp_ComputeCholeskyOLS.cpp
-955a71bf4b855e4e0a7f5c9efc78ad9c *src/Rcpp_ComputeDualError.cpp
+f33b1a826d8b5a06890ba5f648f25456 *src/Rcpp_ComputeDualError.cpp
 c86a147c158ee0142b497820f7f39333 *src/Rcpp_ComputeEstGraph.cpp
 94ab91b1368025dfad7c6d78f6b92e76 *src/Rcpp_ComputeG.cpp
 874bf7fc8150aaacac55a183653469c4 *src/Rcpp_ComputeGBeta_ADMM.cpp
@@ -25,7 +25,7 @@ c86a147c158ee0142b497820f7f39333 *src/Rcpp_ComputeEstGraph.cpp
 027e0686e51ce1c7108a047563bdec98 *src/Rcpp_ComputeInvXTXrhoGTG_NonSparse.cpp
 ed18435dcff934b6b448ff90d1f74e4d *src/Rcpp_ComputeLogitLoss.cpp
 8072bf95ce1c6d3a54cb859584d59d8f *src/Rcpp_ComputeLogitMSPE.cpp
-328e78701b606a287a2afd4df7563195 *src/Rcpp_ComputePrimalError.cpp
+70a56c1b5a27c7a26fb34d8abd16bbb8 *src/Rcpp_ComputePrimalError.cpp
 32519ea160264719f6a1a21abde667f8 *src/Rcpp_ComputeRhoGTGamma.cpp
 b98e210a7437138758c4f7a8d129172f *src/Rcpp_ComputeSquaredL2Loss.cpp
 bc5203aa8a9717d54db30431ce04663b *src/Rcpp_ComputeXTXrhoGTG.cpp
