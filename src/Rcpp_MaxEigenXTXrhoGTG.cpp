@@ -30,7 +30,7 @@ SEXP MaxEigenXTXrhoGTG(SEXP X, SEXP b, SEXP max_iter, SEXP tol_err){
 
 
   int l = 0;
-  double err = 10^6;
+  double err = 1e6;
 
   while(err > tol_err_s && l < max_iter_s){
 

@@ -37,7 +37,7 @@ SEXP GradLogisticReg(Eigen::MatrixXd X,
       VectorXd nabla_h_Xbeta = VectorXd(n).setZero();
       VectorXd err_list=VectorXd(max_iter_s).setZero();
 
-        double err = 10^6;
+        double err = 1e6;
 
         int l = 0;
 

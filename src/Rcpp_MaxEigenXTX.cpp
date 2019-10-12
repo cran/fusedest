@@ -29,7 +29,7 @@ double MaxEigenXTX(Eigen::MatrixXd X, Eigen::VectorXd z, SEXP max_iter, SEXP tol
 
 
   int l = 0;
-  double err = 10^6;
+  double err = 1e6;
   double n_const  = 0;
 
   while(err > tol_err_s && l < max_iter_s){

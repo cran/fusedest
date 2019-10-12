@@ -1,4 +1,4 @@
-c0fe5d8ee0edf7242505468d643f73ed *DESCRIPTION
+a490172095d41de37de276ae572a5e3c *DESCRIPTION
 265b2a357765910bee3a9b6cde3c8068 *NAMESPACE
 160cd644e4fc4b11bd03f3ebbc71bb35 *R/fusedest_source_code_linear_reg.R
 305277cd6c87139210ffd58ebaf7b404 *R/fusedest_source_code_logistic_reg.R
@@ -30,10 +30,10 @@ ed18435dcff934b6b448ff90d1f74e4d *src/Rcpp_ComputeLogitLoss.cpp
 b98e210a7437138758c4f7a8d129172f *src/Rcpp_ComputeSquaredL2Loss.cpp
 bc5203aa8a9717d54db30431ce04663b *src/Rcpp_ComputeXTXrhoGTG.cpp
 c88f4e1f6e25d978624f4980cdbbaaea *src/Rcpp_Computeb.cpp
-4631dbf0f9db03b1b7404200fcbb7d11 *src/Rcpp_GradientLogisticReg.cpp
-ba6a292708f5762cf823ac3f668cab37 *src/Rcpp_IRLSLogisticReg.cpp
-90b772f6b19e7675361cadf1b2d8b7e3 *src/Rcpp_MaxEigenXTX.cpp
-17660c4f2c26beadd3fb78d646e575ab *src/Rcpp_MaxEigenXTXrhoGTG.cpp
+7bbbdc58cc6affde76fefd34bbe676e3 *src/Rcpp_GradientLogisticReg.cpp
+70e42bc1dfbf1e7333a840b809819c69 *src/Rcpp_IRLSLogisticReg.cpp
+ca7526b3d3ddea634f40e0180ed506bd *src/Rcpp_MaxEigenXTX.cpp
+eee5b24c4813963190b9fd9b7e2998e4 *src/Rcpp_MaxEigenXTXrhoGTG.cpp
 e1ea21b2da4509815e876855ba257211 *src/Rcpp_Suml2Distance.cpp
 469341146ca41ae8cc559de52a2c15ff *src/Rcpp_UpdateAlphal2Norm.cpp
 ea7ffb2a482013074893011fe85e8359 *src/Rcpp_UpdateEta_ADMM.cpp

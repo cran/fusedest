@@ -48,7 +48,7 @@ SEXP IRLSLogisticReg(Eigen::MatrixXd X,
 
   /* Run iteration */
 
-  double err = 10^6;
+  double err = 1e6;
   int l = 0;
 
   while(err > tol_err_s && l < max_iter_s){
